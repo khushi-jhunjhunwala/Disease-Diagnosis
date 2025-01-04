@@ -1,1 +1,3 @@
 # Disease-Diagnosis
+
+The healthcare project is an intelligent system designed to aid in diagnosing diseases by analyzing user-input symptoms through deep learning models. It leverages a comprehensive dataset of diseases and symptoms to predict potential diagnoses and provides detailed information about the identified conditions. The system enables efficient, accurate, and user-friendly healthcare assistance, making medical insights accessible and empowering users to take proactive steps toward their well-being. By integrating advanced technology, the project demonstrates innovation in healthcare delivery, enhancing the diagnostic process and supporting better health outcomes.
